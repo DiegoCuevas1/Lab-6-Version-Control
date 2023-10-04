@@ -5,4 +5,4 @@ This python program will ask for an input for the user's name, then ask for an i
 and finally display a message: `name` has `int` fingers on their hands.
 
 Authors:
-Diego Cuevas
+Diego Cuevas, Brandon Hui
