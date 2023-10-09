@@ -1,19 +1,20 @@
 {
  "cells": [
   {
+   "cell_type": "markdown",
+   "metadata": {},
+   "source": [
+    "I decided to choose the MIT License as it is the most commonly used license. I also believe that for a program like this,\n",
+    "every user should be able to utilize and modify it however they want, only if they also credit the original program\n",
+    "creator, which would be us."
+   ]
+  },
+  {
    "cell_type": "code",
    "execution_count": null,
    "metadata": {},
    "outputs": [],
-   "source": [
-    "name = input('Enter your name: ')\n",
-    "while name.isdigit():\n",
-    "    name = input('Not a name. Try again.')\n",
-    "integer = input('Enter an integer: ')\n",
-    "while not integer.isdigit():\n",
-    "    integer = input('Invalid input, try again. Enter an integer: ')\n",
-    "print(f\"{name} has {integer} fingers on their hands.\")"
-   ]
+   "source": []
   }
  ],
  "metadata": {
