@@ -1,2 +1,2 @@
 I decided to choose the MIT License as it is the most commonly used license. I believe that for a program like this,
-everyone should be able to modify or utilize it for their own use, as long as it credits us.
+everyone should be able to modify or utilize it for their own use, as long as it credits us and furthers the future of Computer Science.
